@@ -10,6 +10,6 @@ import Foundation
 
 class Gamerule{
     
-    let numberOfBalls = 50
+    let numberOfBalls = 0
     
 }
